@@ -41,3 +41,15 @@ pip install mne numpy matplotlib jupyter
 
 # Start Jupyter
 jupyter notebook
+
+Then open `01_exploring_eeg_data.ipynb`
+Goals
+Build a complete pipeline for:
+	1.	Loading and preprocessing EEG data
+	2.	Extracting features (Common Spatial Patterns)
+	3.	Training a classifier (SVM, then deep learning)
+	4.	Evaluating cross-subject performance
+Resources I’m Using
+	•	MNE-Python Documentation
+	•	BCI Competition IV
+	•	Fast.ai Deep Learning Course
