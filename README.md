@@ -1,4 +1,4 @@
-# EEG-Motor-Imagery
+
 # EEG Motor Imagery Classification
 
 Learning to classify motor imagery signals from brain-computer interface data.
